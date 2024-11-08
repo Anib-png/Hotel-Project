@@ -7,7 +7,7 @@ namespace TrabajoFinalVisualComp
 {
     public partial class CheckInDatabase : Form
     {
-        private string connectionString = "Server=DESKTOP-G9J9UCN\\SQLEXPRESS02;Database=HotelDatabase;Integrated Security=True;";
+      //  private string connectionString = "YOUR PC HERE;Database=HotelDatabase;Integrated Security=True;";
 
         public CheckInDatabase()
         {
